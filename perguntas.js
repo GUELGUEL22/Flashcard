@@ -1,6 +1,6 @@
 criaCartao(
     'Matemática',
-    'O que é um número primo??',
+    'O que é um número primo?',
     'É um número maior que 1 que só é divisível por 1 e por ele mesmo.'
 )
 
@@ -18,7 +18,7 @@ criaCartao(
 
 criaCartao(
     'Ciências',
-    'O que é fotossíntese??',
+    'O que é fotossíntese?',
     'É o processo onde plantas são produzidas como alimento usando luz solar, água e dióxido de carbono.'
 )
 
