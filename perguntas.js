@@ -18,7 +18,7 @@ criaCartao(
 
 criaCartao(
     'Ciências',
-    'o que é fotossíntese??',
+    'O que é fotossíntese??',
     'É o processo onde plantas são produzidas como alimento usando luz solar, água e dióxido de carbono.'
 )
 
