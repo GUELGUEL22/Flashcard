@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'MATEMÁTICA',
+    'O que é um número primo??',
+    'É um número maior que 1 que só é divisível por 1 e por ele mesmo.'
 )
 
 criaCartao(
